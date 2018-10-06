@@ -8,7 +8,7 @@ There are two types of data
 * [genealogical_tree.json](https://rawgit.com/burdiuz/mythology_demo_data/master/genealogical_tree.json)
 * [genealogical_tree.xml](https://rawgit.com/burdiuz/mythology_demo_data/master/genealogical_tree.xml)
 
-2. unaliased data wehere nides like `<node alias="***" />` are replaced with nodes with equal labels.
+2. unaliased data wehere nodes like `<node alias="***" />` are replaced with content nodes with equal labels.
 * [unaliased_genealogical_tree.js](https://rawgit.com/burdiuz/mythology_demo_data/master/unaliased_genealogical_tree.js)
 * [unaliased_genealogical_tree.json](https://rawgit.com/burdiuz/mythology_demo_data/master/unaliased_genealogical_tree.json)
 * [unaliased_genealogical_tree.xml](https://rawgit.com/burdiuz/mythology_demo_data/master/unaliased_genealogical_tree.xml)
